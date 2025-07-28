@@ -26,7 +26,7 @@ Built with Flask + ML + HTML/CSS + JavaScript.
 
 ## 📫 Let's Connect!
 - 💼 [LinkedIn](https://www.linkedin.com/in/prachi-priya-b46156326/)
-- 📧 Email: priyaprachi337@gmail.com , prachi.priya24b@gmail.com
+- 📧 Email: priyaprachi337@gmail.com , prachi.priya24b@iiitg.ac.in
 - 🔗 [GitHub](https://github.com/Ppp3338888)
 
 ---
