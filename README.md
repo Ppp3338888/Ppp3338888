@@ -10,7 +10,7 @@
 
 ## 💻 Tech Stack
 - 💻 Languages: Python, C, Java
-- 🌐 Web: HTML, CSS, Flask
+- 🌐 Web: HTML, CSS, Flask , Javascript
 - 🤖 ML: Scikit-Learn (basics), Pandas, NumPy
 - 📦 Tools: Git, GitHub, VS Code
 
@@ -20,13 +20,13 @@
 
 ### 🌸 [GlowUp – Skincare Recommender](https://github.com/Ppp3338888/Glowup)
 > A web app that suggests skincare routines based on skin type & concerns.  
-Built with Flask + ML + HTML/CSS.
+Built with Flask + ML + HTML/CSS + JavaScript.
 
 ---
 
 ## 📫 Let's Connect!
 - 💼 [LinkedIn](https://www.linkedin.com/in/prachi-priya-b46156326/)
-- 📧 Email: priyaprachi337@gmail.com
+- 📧 Email: priyaprachi337@gmail.com , prachi.priya24b@gmail.com
 - 🔗 [GitHub](https://github.com/Ppp3338888)
 
 ---
