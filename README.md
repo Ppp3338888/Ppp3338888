@@ -1,8 +1,8 @@
 # Hi there! 👋 I'm Prachi Priya
 
-🎓 2nd Year CSE Student at IIIT Guwahati  
+🎓 2nd Year Btech, CSE Student at IIIT Guwahati  
 💡 Passionate about building tech that makes life better  
-🌸 Creator of [GlowUp – Skincare Recommendation App](https://github.com/Ppp3338888/Glowup)  
+🌸 Creator of [GlowUp – Skincare Recommendation App](https://github.com/Ppp3338888/Glowup) try it yourself to know get recommendations according to your skin type
 🧠 Learning Python, Machine Learning, and Web Dev  
 🚀 Aspiring to work at top tech companies & build my own startup
 
